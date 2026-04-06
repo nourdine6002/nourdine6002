@@ -1,7 +1,4 @@
-<a href="https://profile.intra.42.fr/users/nodoulah" target="_blank">
-  <img src="https://badge.mediaplus.ma/green_binary/nodoulah" alt="nodoulah 42 stats">
-</a>
-
+[![nodoulah 42 stats](https://badge.mediaplus.ma/green_binary/nodoulah)](https://profile.intra.42.fr/users/nodoulah)
 
 
 <!--
