@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![nodoulah 42 stats](https://badge.mediaplus.ma/levi/nodoulah)](https://github.com/oakoudad/badge42)
+[![nodoulah 42 stats](https://badge.mediaplus.ma/green_binary/nodoulah)](https://github.com/oakoudad/badge42)
 
 <!--
 **nourdine6002/nourdine6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
