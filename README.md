@@ -2,6 +2,8 @@
   <img src="https://badge.mediaplus.ma/green_binary/nodoulah" alt="nodoulah 42 stats">
 </a>
 
+
+<div align="center">
 <!--
 **nourdine6002/nourdine6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
