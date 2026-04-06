@@ -1,9 +1,3 @@
-## Hi there 👋
-
-
-
-
-
 [![nodoulah 42 stats](https://badge.mediaplus.ma/green_binary/nodoulah)](https://github.com/oakoudad/badge42)
 
 <!--
