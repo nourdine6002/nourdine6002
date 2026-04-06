@@ -1,4 +1,6 @@
-[![nodoulah 42 stats](https://badge.mediaplus.ma/green_binary/nodoulah)](https://profile.intra.42.fr/users/nodoulah)
+<a href="https://profile.intra.42.fr/users/nodoulah" target="_blank">
+  <img src="https://badge.mediaplus.ma/green_binary/nodoulah" alt="nodoulah 42 stats">
+</a>
 
 <!--
 **nourdine6002/nourdine6002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
