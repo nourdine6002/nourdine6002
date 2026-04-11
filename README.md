@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A3FF&height=250&section=header&text=Nourdine%20Doulahiane&fontSize=70&animation=twinkling&fontAlignY=35&desc=Systems%20Programmer%20%7C%2042%20Network&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A3FF&height=250&section=header&text=Nourdine%20Doulahiane&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Systems%20Programmer%20%7C%2042%20Network&descAlignY=55" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00A3FF&center=true&vCenter=true&width=600&lines=Low-level+Architecture+%26+Optimization;Crafting+efficient,+memory-safe+code;Building+robust+Python+architectures)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Low-level+Architecture+%26+Optimization;Crafting+efficient,+memory-safe+code;Building+robust+Python+architectures)](https://git.io/typing-svg)
 </div>
 
 <br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="30" height="30" /> About Me
-<img align="right" src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" alt="Hacking Gif" width="220" />
+<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacking Gif" width="220" style="border-radius:10px" />
 
 A systems programmer focused on deep-diving into machine mechanics, algorithm optimization, and operating systems. Taking software engineering seriously down to the very last byte.
 
@@ -21,8 +21,7 @@ A systems programmer focused on deep-diving into machine mechanics, algorithm op
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <!-- Using skillicons which have beautiful hover effects, added more relevant systems tools -->
-    <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,github,docker,vim&perline=8" />
+    <img src="https://skillicons.dev/icons?i=c,python,linux,bash,git,docker,vim,github&perline=8" />
   </a>
 </p>
 
@@ -44,14 +43,13 @@ A systems programmer focused on deep-diving into machine mechanics, algorithm op
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourdine6002&theme=dark&hide_border=true&background=0D1117&ring=00A3FF&fire=00A3FF&currStreakNum=00A3FF&sideNums=00A3FF&currStreakLabel=00A3FF&sideLabels=00A3FF&dates=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourdine6002&theme=dark&hide_border=true&background=0D1117&ring=27F23E&fire=27F23E&currStreakNum=27F23E&sideNums=27F23E&currStreakLabel=27F23E&sideLabels=27F23E&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/nourdine6002">
-    <!-- Using the official 42 badge as originally requested -->
     <img src="https://badge.mediaplus.ma/green_binary/nodoulah" alt="42 Badge" />
   </a>
 </div>
