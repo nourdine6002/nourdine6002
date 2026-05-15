@@ -15,7 +15,7 @@
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="35" /> About Me
-<img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Hacking Gif" width="240" style="border-radius:10px; margin-left: 15px;" />
+<img align="right" src="https://i.pinimg.com/originals/c0/15/e8/c015e80df289951e9dfc79baee9a2f7b.gif" alt="Hacking Gif" width="240" style="border-radius:10px; margin-left: 15px;" />
 
 A systems programmer focused on deep-diving into machine mechanics, algorithm optimization, and operating systems. Taking software engineering seriously down to the very last byte.
 
