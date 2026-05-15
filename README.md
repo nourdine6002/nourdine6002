@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00A3FF&height=250&section=header&text=Nourdine%20Doulahiane&fontSize=70&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Systems%20Programmer%20%7C%2042%20Network&descAlignY=55" />
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Student+1337+Khouribga)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=87CEFA&center=true&vCenter=true&width=600&lines=Student+1337+Khouribga)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
