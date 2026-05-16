@@ -70,7 +70,7 @@ A systems programmer focused on deep-diving into machine mechanics, algorithm op
 <br>
 
 <div align="center">
-  <a href="https://github.com/nourdine6002">
+  <a href="https://github.com/nourdine6002](https://profile.intra.42.fr/users/nodoulah">
     <!-- The official green binary badge requested! -->
     <img src="https://badge.mediaplus.ma/green_binary/nodoulah" alt="42 Badge" />
   </a>
