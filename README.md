@@ -33,12 +33,12 @@ A systems programmer focused on deep-diving into machine mechanics, algorithm op
 
 <div align="center">
   <b>Operating Systems & Low-Level</b> <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,bash,c,vim,gcc" /></a>
+  <a><img src="https://skillicons.dev/icons?i=linux,bash,c,vim,gcc" /></a>
   
   <br><br>
   
   <b>Backend & Infrastructure</b> <br>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,git,github,regex" /></a>
+  <a><img src="https://skillicons.dev/icons?i=python,git,github,regex" /></a>
 </div>
 
 <br>
