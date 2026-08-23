@@ -63,9 +63,7 @@ A systems programmer focused on deep-diving into machine mechanics, algorithm op
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="35" /> Global Telemetry
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nourdine6002&theme=dark&hide_border=true&background=0D1117&ring=27F23E&fire=27F23E&currStreakNum=27F23E&sideNums=27F23E&currStreakLabel=27F23E&sideLabels=27F23E&dates=FFFFFF" alt="GitHub Streak" />
-</div>
+
 
 <br>
 
